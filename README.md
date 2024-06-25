@@ -36,3 +36,11 @@ Depth-First Search (DFS) algorithm that searches the graph for the specified tar
 
 - A functional UI for graph creation and manipulation.
 - A feature to input and search for a target node using DFS, with the search process visibility demonstrated in the UI.
+
+### Final Considerations
+
+UI Design Flexibility: You have the freedom to design the user interface in any way you see fit.
+
+You are required to implement the graph data structures and the Depth First Search (DFS) algorithm yourself, without using any external
+libraries that provide pre-built functionalities for these tasks. This means you should write the core algorithmic code from scratch to
+demonstrate understanding and capability in handling basic data structures and algorithms.
