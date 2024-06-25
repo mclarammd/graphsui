@@ -44,3 +44,5 @@ UI Design Flexibility: You have the freedom to design the user interface in any 
 You are required to implement the graph data structures and the Depth First Search (DFS) algorithm yourself, without using any external
 libraries that provide pre-built functionalities for these tasks. This means you should write the core algorithmic code from scratch to
 demonstrate understanding and capability in handling basic data structures and algorithms.
+
+You shouldn't spend more than 3 hours working on this assignment. This task is not designed for more than that.
